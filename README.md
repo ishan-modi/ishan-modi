@@ -20,22 +20,22 @@
 # Work Experience
 
 <ul>
-<li><h4> Company Name : Espirit Software Pvt. Ltd.
+<li><h4> Company Name: Espirit Software Pvt. Ltd.
  </h4> 
-  <h4> Work Role : Software Development Engineer Intern</h4> 
-  <h4> From : 2020-04 </h4> 
-  <h4> to :2020-06 </h4> 
-  <h4> Details : Worked on spring mvc and hibernate </h4> 
+  <h4> Work Role: Software Development Engineer Intern</h4> 
+  <h4> From: 2020-04 </h4> 
+  <h4> to: 2020-06 </h4> 
+  <h4> Details: Worked on spring mvc and hibernate </h4> 
 </li></ul>
 
 # Projects
 
 <ul>
-<li> <h4>Project Name : Deep-Learning-Algorithms</h4> 
-<h4> Project Description : Implemented various deep learning models using basic python libraries</h4> 
-<h4>  From : 2020-03</h4> 
- <h4>  to :2020-06</h4> 
-<h4>  Github Link :</h4> 
+<li> <h4>Project Name: Deep-Learning-Algorithms</h4> 
+<h4> Project Description: Implemented various deep learning models using basic python libraries</h4> 
+<h4>  From: 2020-03</h4> 
+ <h4>  to: 2020-06</h4> 
+<h4>  Github Link: https://github.com/ishan-modi/Deep-Learning-Algorithms</h4> 
  </li></ul>
 
 # Skills
