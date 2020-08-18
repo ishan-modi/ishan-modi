@@ -1,7 +1,7 @@
 # Hi there!
 
 #### Name: Ishan Modi
-
+#### Resume: [resume]()
 #### Position: Machine Learning Enthusiast
 #### Contact me: [E-Mail](mailto:ishan.modi24@gmail.com), [LinkedIn](https://www.linkedin.com/in/ishan-modi-5765521a1/), [Twitter](https://twitter.com/ishan_modi24)
 #### Languages and tools used:  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> 
