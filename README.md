@@ -5,7 +5,7 @@
     <a href="https://twitter.com/ishan_modi24" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="vumdao" height="40" width="40" /></a>
 </p><br>
 
-I have completed my Bachelors in Computer Engineering and have been working as a machine learning engineer for over 2 years. I am passionate about data science 📊 and mathematics 🧮 that revolves around it. Always open to learning and collaborating on exciting projects
+I have completed my Bachelors in Computer Engineering and have been working as a machine learning engineer. I am passionate about data science 📊 and mathematics 🧮 that revolves around it. Always open to learning and collaborating on exciting projects
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
 - 📟 I’m currently Machine Learning Enginner at [GLIB](https://glib.ai/)
