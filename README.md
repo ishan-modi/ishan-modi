@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ishan 👋👨🏻‍💻</h1>
 <p align="center">
-    <a href="mailto:ishan.modi24@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="vumdao" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ishan-modi-5765521a1/" target="blank"><img align="center" src="https://www.pngrepo.com/png/81143/180/linkedin.png" alt="VuDao81124667" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/ishan_modi24" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="vumdao" height="40" width="40" /></a>
+    <a href="mailto:ishan.modi24@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ishan-modi-5765521a1/" target="blank"><img align="center" src="https://www.pngrepo.com/png/81143/180/linkedin.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/ishan_modi24" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="" height="40" width="40" /></a>
 </p><br>
 
 I have completed my Bachelors in Computer Engineering and have been working as a machine learning engineer. I am passionate about data science 📊 and mathematics 🧮 that revolves around it. Always open to learning and collaborating on exciting projects
