@@ -8,7 +8,7 @@
 I have completed my Bachelors in Computer Engineering and have been working as a machine learning engineer. I am passionate about data science 📊 and mathematics 🧮 that revolves around it. Always open to learning and collaborating on exciting projects
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
-- 📟 I’m currently Machine Learning Enginner at [GLIB](https://glib.ai/)
+- 📟 I’m currently Machine Learning Enginner at [RAFT](https://raft.ai/)
 - ✏️ Check out my portfolio site [ishanmodi.com](https://ishanmodi.site) for all my projects and my works.<br><br>
 
 <h3>Languages and tools used: &nbsp;&nbsp;
