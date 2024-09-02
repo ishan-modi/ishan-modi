@@ -9,7 +9,7 @@ I have completed my Bachelors in Computer Engineering and have been working as a
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
 - 📟 I’m currently Machine Learning Enginner at [RAFT](https://raft.ai/)
-- ✏️ Check out my portfolio site [ishanmodi.com](https://ishanmodi.store) for all my projects and my works.<br><br>
+- ✏️ Check out my portfolio site [ishanmodi.com](https://ishanmodi.tech) for all my projects and my works.<br><br>
 
 <h3>Languages and tools used: &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="35" height="35"/>&nbsp;
